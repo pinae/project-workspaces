@@ -62,7 +62,7 @@ def resize_window():
     global              
       .display
       .focus_window
-      .move_resize_frame(true, 300, 200, 890, 700)\"
+      .move_resize_frame(true, 300, 200, 1100, 800)\"
       """, shell=True)
     return str(output, encoding="utf-8")
 
